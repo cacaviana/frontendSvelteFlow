@@ -1,0 +1,11 @@
+@import 'tailwindcss';
+@import '@xyflow/svelte/dist/style.css';
+
+:root {
+  --color-start: #22c55e;
+  --color-question: #3b82f6;
+  --color-condition: #eab308;
+  --color-specialist: #ef4444;
+  --color-quote: #8b5cf6;
+  --color-message: #6b7280;
+}
